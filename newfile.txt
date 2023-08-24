@@ -17,6 +17,6 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.web.bind.annotation.GetMapping;
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        
+[matMenuTriggerFor]
 		return application.sources(DockerDemoApplication.class);
 	}
