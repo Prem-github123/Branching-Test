@@ -20,6 +20,6 @@ new doc
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        
+[matMenuTriggerFor]
 		return application.sources(DockerDemoApplication.class);
 	}
