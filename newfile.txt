@@ -1,1 +1,8 @@
-Abcd efgh
+@GetMapping("/welcome/{name}")
+	 public String welcome(@PathVariable String name) {
+	  return "Hello, "+name + "!  Welcome to the website! ";
+	 }
+
+	public static void main(String[] args) {
+		SpringApplication.run(DockerDemoApplication.class, args);
+	}
