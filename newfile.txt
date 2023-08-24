@@ -8,3 +8,4 @@
 	public static void main(String[] args) {
 		SpringApplication.run(DockerDemoApplication.class, args);
 	}
+[matMenuTriggerFor]="notificationMenuBtn" (menuOpened)="profileIcon()"
