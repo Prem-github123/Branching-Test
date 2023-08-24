@@ -1,1 +1,2 @@
-Abcd efgh
+<img draggable="false" id="iconsArtboard 2@2x.png profile" style="display: inline-block;"
+                      src="../assets/images/faces/iconsArtboard 2@2x.png" width="20px" height="20px">
